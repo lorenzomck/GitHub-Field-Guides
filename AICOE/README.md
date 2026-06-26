@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="AI Centre of Excellence - Starter Pack for Responsible AI Adoption" width="100%"/>
+</p>
+
 # AI Centre of Excellence (AICOE) Starter Pack
 
 A starter pack to help you establish your AI Centre of Excellence.
