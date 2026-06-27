@@ -6,7 +6,7 @@
   <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Mona the Octocat" width="140"/>
 </p>
 
-# AI Centre of Excellence (AICOE) Starter Pack
+<h1 align="center">AI Centre of Excellence (AICOE) Starter Pack</h1>
 
 A starter pack to help you establish your AI Centre of Excellence.
 
