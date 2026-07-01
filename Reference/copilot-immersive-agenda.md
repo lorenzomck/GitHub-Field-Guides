@@ -1,8 +1,8 @@
-# Copilot Immersive — Caterpillar Denver
+# Copilot Immersive — [Customer Name]
 
-**Date:** July 29, 2026  
+**Date:** [Date]  
 **Format:** Full-day onsite · Presenter-led sessions + hands-on labs  
-**Audience:** Caterpillar developers  
+**Audience:** [Customer] developers  
 **Goal:** Accelerate adoption of agentic workflows — increase agent contribution and build confidence with Copilot's autonomous capabilities across the SDLC
 
 ---
@@ -17,7 +17,7 @@
 | 10:30 – 12:00 PM | **Hands-On Lab: From Completions to Agent Mode** — Guided exercises progressing through Copilot capabilities. Agent mode in IDE & CLI, Copilot desktop app, customization files (.copilot-instructions.md, agent.md), and Hooks | Hands-on |
 | 12:00 – 1:00 PM | **Lunch Break** | — |
 | 1:00 – 2:00 PM | **Agents & Extensibility Deep Dive** — Coding Agent, Code Review Agent, orchestration patterns, reusable prompts, sub-agents & handoffs, MCP integrations, Custom Agents & Copilot SDK | Presenter-led |
-| 2:00 – 2:30 PM | **Caterpillar Developer Showcase** — Your teams share use cases, wins, and patterns they've built | Client-led |
+| 2:00 – 2:30 PM | **Developer Showcase** — Your teams share use cases, wins, and patterns they've built | Client-led |
 | 2:30 – 4:00 PM | **Open Lab & Office Hours** — Bring your repos, bring your hardest problems. Live support from GitHub as you put agent workflows into practice | Hands-on |
 
 ---
