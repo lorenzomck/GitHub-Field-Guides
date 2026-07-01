@@ -1,0 +1,75 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">InnerSource Playbook banner</title>
+  <desc id="desc">A dark GitHub-themed banner with network icon, title, subtitle, and badges for Culture, Discovery, Contribution, and Governance.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="40" x2="980" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39d353"/>
+      <stop offset="1" stop-color="#2ea043"/>
+    </linearGradient>
+    <linearGradient id="accentSoft" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39d353" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#56d4ff" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#8b949e" fill-opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#dots)"/>
+  <rect x="28" y="24" width="1144" height="4" rx="2" fill="url(#accent)" opacity="0.95"/>
+  <rect x="28" y="272" width="1144" height="4" rx="2" fill="url(#accent)" opacity="0.7"/>
+
+  <circle cx="1010" cy="78" r="138" fill="url(#accentSoft)"/>
+  <circle cx="1110" cy="246" r="90" fill="#56d4ff" fill-opacity="0.06"/>
+
+  <g opacity="0.95" filter="url(#glow)">
+    <path d="M170 95L230 68L292 106L275 174L208 198L153 154L170 95Z" fill="#0d1117" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M208 198L334 166M230 68L370 92M292 106L408 58M275 174L428 190M334 166L428 190M370 92L408 58" stroke="#56d4ff" stroke-opacity="0.65" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="170" cy="95" r="11" fill="#0d1117" stroke="#39d353" stroke-width="4"/>
+    <circle cx="230" cy="68" r="11" fill="#0d1117" stroke="#56d4ff" stroke-width="4"/>
+    <circle cx="292" cy="106" r="11" fill="#0d1117" stroke="#39d353" stroke-width="4"/>
+    <circle cx="275" cy="174" r="11" fill="#0d1117" stroke="#56d4ff" stroke-width="4"/>
+    <circle cx="208" cy="198" r="11" fill="#0d1117" stroke="#39d353" stroke-width="4"/>
+    <circle cx="153" cy="154" r="11" fill="#0d1117" stroke="#56d4ff" stroke-width="4"/>
+    <circle cx="334" cy="166" r="10" fill="#0d1117" stroke="#39d353" stroke-width="3.5"/>
+    <circle cx="370" cy="92" r="10" fill="#0d1117" stroke="#56d4ff" stroke-width="3.5"/>
+    <circle cx="408" cy="58" r="10" fill="#0d1117" stroke="#39d353" stroke-width="3.5"/>
+    <circle cx="428" cy="190" r="10" fill="#0d1117" stroke="#56d4ff" stroke-width="3.5"/>
+  </g>
+
+  <g>
+    <text x="480" y="118" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="0.5">InnerSource Playbook</text>
+    <text x="480" y="156" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500">Break Down Silos — Collaborate Across Teams Like Open Source</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">
+    <g transform="translate(480 198)">
+      <rect width="112" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+      <text x="56" y="25" text-anchor="middle" fill="#39d353">Culture</text>
+    </g>
+    <g transform="translate(606 198)">
+      <rect width="124" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+      <text x="62" y="25" text-anchor="middle" fill="#56d4ff">Discovery</text>
+    </g>
+    <g transform="translate(744 198)">
+      <rect width="148" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+      <text x="74" y="25" text-anchor="middle" fill="#39d353">Contribution</text>
+    </g>
+    <g transform="translate(906 198)">
+      <rect width="138" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+      <text x="69" y="25" text-anchor="middle" fill="#56d4ff">Governance</text>
+    </g>
+  </g>
+</svg>

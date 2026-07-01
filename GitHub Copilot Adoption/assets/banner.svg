@@ -1,0 +1,71 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Copilot Adoption banner</title>
+  <desc id="desc">Dark GitHub-themed banner with gradient accents, title, subtitle, badges, and sparkle icon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="184" y1="54" x2="932" y2="274" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#f778ba"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a371f7" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#a371f7"/>
+      <stop offset="0.8" stop-color="#f778ba"/>
+      <stop offset="1" stop-color="#f778ba" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="300" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect x="40" y="22" width="1120" height="2" rx="1" fill="url(#line)"/>
+  <rect x="40" y="276" width="1120" height="2" rx="1" fill="url(#line)"/>
+
+  <g opacity="0.3">
+    <circle cx="76" cy="72" r="2" fill="#8b949e"/><circle cx="108" cy="72" r="2" fill="#8b949e"/><circle cx="140" cy="72" r="2" fill="#8b949e"/><circle cx="172" cy="72" r="2" fill="#8b949e"/>
+    <circle cx="76" cy="104" r="2" fill="#8b949e"/><circle cx="108" cy="104" r="2" fill="#8b949e"/><circle cx="140" cy="104" r="2" fill="#8b949e"/><circle cx="172" cy="104" r="2" fill="#8b949e"/>
+    <circle cx="76" cy="136" r="2" fill="#8b949e"/><circle cx="108" cy="136" r="2" fill="#8b949e"/><circle cx="140" cy="136" r="2" fill="#8b949e"/><circle cx="172" cy="136" r="2" fill="#8b949e"/>
+    <circle cx="76" cy="168" r="2" fill="#8b949e"/><circle cx="108" cy="168" r="2" fill="#8b949e"/><circle cx="140" cy="168" r="2" fill="#8b949e"/><circle cx="172" cy="168" r="2" fill="#8b949e"/>
+  </g>
+
+  <g opacity="0.22">
+    <circle cx="1030" cy="100" r="2" fill="#8b949e"/><circle cx="1062" cy="100" r="2" fill="#8b949e"/><circle cx="1094" cy="100" r="2" fill="#8b949e"/><circle cx="1126" cy="100" r="2" fill="#8b949e"/>
+    <circle cx="1030" cy="132" r="2" fill="#8b949e"/><circle cx="1062" cy="132" r="2" fill="#8b949e"/><circle cx="1094" cy="132" r="2" fill="#8b949e"/><circle cx="1126" cy="132" r="2" fill="#8b949e"/>
+    <circle cx="1030" cy="164" r="2" fill="#8b949e"/><circle cx="1062" cy="164" r="2" fill="#8b949e"/><circle cx="1094" cy="164" r="2" fill="#8b949e"/><circle cx="1126" cy="164" r="2" fill="#8b949e"/>
+    <circle cx="1030" cy="196" r="2" fill="#8b949e"/><circle cx="1062" cy="196" r="2" fill="#8b949e"/><circle cx="1094" cy="196" r="2" fill="#8b949e"/><circle cx="1126" cy="196" r="2" fill="#8b949e"/>
+  </g>
+
+  <ellipse cx="940" cy="62" rx="170" ry="60" fill="#a371f7" opacity="0.14" filter="url(#glow)"/>
+  <ellipse cx="922" cy="220" rx="220" ry="90" fill="#f778ba" opacity="0.12" filter="url(#glow)"/>
+  <path d="M846 78C900 44 964 46 1032 92C962 112 904 138 858 182C838 150 834 112 846 78Z" fill="url(#accent)" opacity="0.22"/>
+  <path d="M792 216C852 180 924 166 1006 182C962 222 898 250 816 264C796 250 786 234 792 216Z" fill="url(#accent)" opacity="0.18"/>
+
+  <g transform="translate(170 74)">
+    <rect x="0" y="0" width="580" height="152" rx="24" fill="#0d1117" fill-opacity="0.42" stroke="#30363d"/>
+    <g transform="translate(30 34)">
+      <path d="M24 0L28.8 15.2L44 20L28.8 24.8L24 40L19.2 24.8L4 20L19.2 15.2L24 0Z" fill="url(#accent)"/>
+      <path d="M14 48L16.4 55.6L24 58L16.4 60.4L14 68L11.6 60.4L4 58L11.6 55.6L14 48Z" fill="#79c0ff" opacity="0.95"/>
+    </g>
+    <text x="90" y="66" fill="#f0f6fc" font-size="40" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="0.4">GitHub Copilot Adoption</text>
+    <text x="90" y="102" fill="#c9d1d9" font-size="21" font-family="Segoe UI, Arial, sans-serif" font-weight="400">Accelerate Developer Productivity with AI</text>
+
+    <g transform="translate(92 122)">
+      <rect x="0" y="0" width="72" height="30" rx="15" fill="#21262d" stroke="#30363d"/>
+      <text x="36" y="20" text-anchor="middle" fill="#f0f6fc" font-size="14" font-family="Segoe UI, Arial, sans-serif" font-weight="600">ROI</text>
+      <rect x="84" y="0" width="122" height="30" rx="15" fill="#21262d" stroke="#30363d"/>
+      <text x="145" y="20" text-anchor="middle" fill="#f0f6fc" font-size="14" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Enablement</text>
+      <rect x="218" y="0" width="94" height="30" rx="15" fill="#21262d" stroke="#30363d"/>
+      <text x="265" y="20" text-anchor="middle" fill="#f0f6fc" font-size="14" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Metrics</text>
+      <rect x="324" y="0" width="100" height="30" rx="15" fill="#21262d" stroke="#30363d"/>
+      <text x="374" y="20" text-anchor="middle" fill="#f0f6fc" font-size="14" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Prompts</text>
+    </g>
+  </g>
+</svg>
