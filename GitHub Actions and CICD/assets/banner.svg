@@ -1,0 +1,84 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Actions and CI/CD Resource Pack</title>
+  <desc id="desc">Dark themed banner with GitHub Actions and CI/CD title, badges, and gear icon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="240" y1="40" x2="980" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0883e"/>
+      <stop offset="1" stop-color="#d29922"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0883e" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#f0883e"/>
+      <stop offset="0.5" stop-color="#d29922"/>
+      <stop offset="0.82" stop-color="#f0883e"/>
+      <stop offset="1" stop-color="#f0883e" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="300" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#8b949e" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="252" rx="20" fill="url(#dots)"/>
+  <rect x="0" y="16" width="1200" height="4" rx="2" fill="url(#line)"/>
+  <rect x="0" y="280" width="1200" height="4" rx="2" fill="url(#line)"/>
+
+  <g opacity="0.9" filter="url(#glow)">
+    <path d="M920 62C1006 81 1075 145 1083 217C1087 253 1074 269 1043 259C997 244 957 239 914 253C868 267 841 242 846 201C852 149 855 123 831 94C810 69 838 44 882 49C895 50 908 55 920 62Z" fill="url(#accent)" fill-opacity="0.16"/>
+    <path d="M858 74L870 68L881 74L885 86L878 97L866 101L855 94L851 82L858 74Z" fill="url(#accent)" fill-opacity="0.78"/>
+    <path d="M1016 160L1034 151L1054 157L1063 175L1057 195L1039 204L1019 198L1010 180L1016 160Z" fill="url(#accent)" fill-opacity="0.72"/>
+    <circle cx="953" cy="100" r="5" fill="#f0883e" fill-opacity="0.68"/>
+    <circle cx="1090" cy="120" r="4" fill="#d29922" fill-opacity="0.62"/>
+    <circle cx="984" cy="238" r="6" fill="#f0883e" fill-opacity="0.54"/>
+  </g>
+
+  <g transform="translate(88 68)">
+    <circle cx="72" cy="82" r="42" stroke="url(#accent)" stroke-width="14"/>
+    <circle cx="72" cy="82" r="13" fill="url(#accent)"/>
+    <g fill="url(#accent)">
+      <rect x="66" y="10" width="12" height="24" rx="4"/>
+      <rect x="66" y="130" width="12" height="24" rx="4"/>
+      <rect x="10" y="76" width="24" height="12" rx="4"/>
+      <rect x="110" y="76" width="24" height="12" rx="4"/>
+      <rect x="24.5" y="28.5" width="12" height="24" rx="4" transform="rotate(-45 24.5 28.5)"/>
+      <rect x="109.5" y="113.5" width="12" height="24" rx="4" transform="rotate(-45 109.5 113.5)"/>
+      <rect x="28.5" y="139.5" width="12" height="24" rx="4" transform="rotate(45 28.5 139.5)"/>
+      <rect x="113.5" y="54.5" width="12" height="24" rx="4" transform="rotate(45 113.5 54.5)"/>
+    </g>
+  </g>
+
+  <g transform="translate(240 72)">
+    <text x="0" y="62" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="800" letter-spacing="0.3">GitHub Actions &amp; CI/CD</text>
+    <text x="0" y="104" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="500">Automate, Build, Test, and Deploy with Confidence</text>
+
+    <g transform="translate(0 138)">
+      <g>
+        <rect width="128" height="36" rx="18" fill="#21262d" stroke="#30363d"/>
+        <text x="64" y="23" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600">Workflows</text>
+      </g>
+      <g transform="translate(142 0)">
+        <rect width="114" height="36" rx="18" fill="#21262d" stroke="#30363d"/>
+        <text x="57" y="23" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600">Runners</text>
+      </g>
+      <g transform="translate(270 0)">
+        <rect width="114" height="36" rx="18" fill="#21262d" stroke="#30363d"/>
+        <text x="57" y="23" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600">Security</text>
+      </g>
+      <g transform="translate(398 0)">
+        <rect width="130" height="36" rx="18" fill="#21262d" stroke="#30363d"/>
+        <text x="65" y="23" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600">Migration</text>
+      </g>
+    </g>
+  </g>
+</svg>

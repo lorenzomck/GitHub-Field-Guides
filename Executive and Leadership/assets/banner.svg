@@ -1,0 +1,75 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Executive and Leadership banner</title>
+  <desc id="desc">Dark GitHub themed banner with executive strategy messaging and growth iconography.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="215" y1="44" x2="900" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d29922"/>
+      <stop offset="1" stop-color="#f0883e"/>
+    </linearGradient>
+    <linearGradient id="accentSoft" x1="760" y1="62" x2="1080" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d29922" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f0883e" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#8b949e" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="19" stroke="#30363d"/>
+  <rect width="1200" height="300" rx="20" fill="url(#dots)"/>
+
+  <path d="M24 30H1176" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 270H1176" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+
+  <g opacity="0.85">
+    <circle cx="968" cy="148" r="92" fill="url(#accentSoft)"/>
+    <circle cx="968" cy="148" r="64" stroke="#f0883e" stroke-opacity="0.22"/>
+    <circle cx="968" cy="148" r="40" stroke="#d29922" stroke-opacity="0.22"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.28">
+    <path d="M862 191L916 145L958 171L1032 100L1084 118" stroke="url(#accent)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <path d="M862 191L916 145L958 171L1032 100L1084 118" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1068 95H1096V123" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1096 95L1038 153" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+    <rect x="850" y="204" width="30" height="24" rx="4" fill="#2d333b" stroke="#d29922" stroke-opacity="0.45"/>
+    <rect x="892" y="185" width="30" height="43" rx="4" fill="#2d333b" stroke="#d29922" stroke-opacity="0.55"/>
+    <rect x="934" y="167" width="30" height="61" rx="4" fill="#2d333b" stroke="#d29922" stroke-opacity="0.7"/>
+    <rect x="976" y="138" width="30" height="90" rx="4" fill="#2d333b" stroke="#f0883e" stroke-opacity="0.75"/>
+  </g>
+
+  <g>
+    <text x="72" y="118" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.2">Executive &amp; Leadership</text>
+    <text x="72" y="156" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Strategic Insights for Technology Decision Makers</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
+    <g transform="translate(72 198)">
+      <rect width="74" height="34" rx="17" fill="#1f2328" stroke="#d29922" stroke-opacity="0.55"/>
+      <text x="37" y="22" text-anchor="middle" fill="#f0f6fc">ROI</text>
+    </g>
+    <g transform="translate(158 198)">
+      <rect width="106" height="34" rx="17" fill="#1f2328" stroke="#d29922" stroke-opacity="0.55"/>
+      <text x="53" y="22" text-anchor="middle" fill="#f0f6fc">Strategy</text>
+    </g>
+    <g transform="translate(276 198)">
+      <rect width="78" height="34" rx="17" fill="#1f2328" stroke="#d29922" stroke-opacity="0.55"/>
+      <text x="39" y="22" text-anchor="middle" fill="#f0f6fc">TCO</text>
+    </g>
+    <g transform="translate(366 198)">
+      <rect width="132" height="34" rx="17" fill="#1f2328" stroke="#f0883e" stroke-opacity="0.6"/>
+      <text x="66" y="22" text-anchor="middle" fill="#f0f6fc">Competitive</text>
+    </g>
+  </g>
+</svg>
