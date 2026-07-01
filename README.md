@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="80"/>
+  <img src="./assets/banner.svg" alt="Customer References — Resource Packs for OpCo Enablement" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="140"/>
 </p>
 
 <h1 align="center">Customer References — Resource Packs</h1>

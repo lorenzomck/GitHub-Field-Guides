@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f85149"/>
+      <stop offset="20%" style="stop-color:#f0883e"/>
+      <stop offset="40%" style="stop-color:#d29922"/>
+      <stop offset="60%" style="stop-color:#3fb950"/>
+      <stop offset="80%" style="stop-color:#58a6ff"/>
+      <stop offset="100%" style="stop-color:#a371f7"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a371f7" stop-opacity="0.3"/>
+      <stop offset="100%" style="stop-color:#a371f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff" stop-opacity="0.25"/>
+      <stop offset="100%" style="stop-color:#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow3" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" style="stop-color:#3fb950" stop-opacity="0.2"/>
+      <stop offset="100%" style="stop-color:#3fb950" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#a371f7" stop-opacity="0.15"/>
+      <stop offset="100%" style="stop-color:#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#58a6ff" stop-opacity="0.12"/>
+      <stop offset="100%" style="stop-color:#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#3fb950" stop-opacity="0.12"/>
+      <stop offset="100%" style="stop-color:#3fb950" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg)" rx="16"/>
+  <!-- Glowing orbs -->
+  <ellipse cx="200" cy="80" rx="200" ry="150" fill="url(#orb1)"/>
+  <ellipse cx="1000" cy="240" rx="220" ry="160" fill="url(#orb2)"/>
+  <ellipse cx="600" cy="300" rx="300" ry="120" fill="url(#orb3)"/>
+  <!-- Diagonal light streaks -->
+  <rect x="-50" y="60" width="400" height="2" fill="url(#glow1)" transform="rotate(-15 150 60)" rx="1"/>
+  <rect x="850" y="40" width="350" height="2" fill="url(#glow2)" transform="rotate(10 1000 40)" rx="1"/>
+  <rect x="400" y="280" width="300" height="1.5" fill="url(#glow3)" transform="rotate(-5 550 280)" rx="1"/>
+  <!-- Decorative dots grid - left -->
+  <g opacity="0.12">
+    <circle cx="60" cy="60" r="1.5" fill="#f85149"/><circle cx="90" cy="60" r="1.5" fill="#f0883e"/><circle cx="120" cy="60" r="1.5" fill="#d29922"/><circle cx="150" cy="60" r="1.5" fill="#3fb950"/><circle cx="180" cy="60" r="1.5" fill="#58a6ff"/><circle cx="210" cy="60" r="1.5" fill="#a371f7"/>
+    <circle cx="60" cy="90" r="1.5" fill="#a371f7"/><circle cx="90" cy="90" r="1.5" fill="#f85149"/><circle cx="120" cy="90" r="1.5" fill="#f0883e"/><circle cx="150" cy="90" r="1.5" fill="#d29922"/><circle cx="180" cy="90" r="1.5" fill="#3fb950"/><circle cx="210" cy="90" r="1.5" fill="#58a6ff"/>
+    <circle cx="60" cy="120" r="1.5" fill="#58a6ff"/><circle cx="90" cy="120" r="1.5" fill="#a371f7"/><circle cx="120" cy="120" r="1.5" fill="#f85149"/><circle cx="150" cy="120" r="1.5" fill="#f0883e"/><circle cx="180" cy="120" r="1.5" fill="#d29922"/><circle cx="210" cy="120" r="1.5" fill="#3fb950"/>
+    <circle cx="60" cy="150" r="1.5" fill="#3fb950"/><circle cx="90" cy="150" r="1.5" fill="#58a6ff"/><circle cx="120" cy="150" r="1.5" fill="#a371f7"/><circle cx="150" cy="150" r="1.5" fill="#f85149"/><circle cx="180" cy="150" r="1.5" fill="#f0883e"/><circle cx="210" cy="150" r="1.5" fill="#d29922"/>
+    <circle cx="60" cy="180" r="1.5" fill="#d29922"/><circle cx="90" cy="180" r="1.5" fill="#3fb950"/><circle cx="120" cy="180" r="1.5" fill="#58a6ff"/><circle cx="150" cy="180" r="1.5" fill="#a371f7"/><circle cx="180" cy="180" r="1.5" fill="#f85149"/><circle cx="210" cy="180" r="1.5" fill="#f0883e"/>
+  </g>
+  <!-- Decorative dots grid - right -->
+  <g opacity="0.12">
+    <circle cx="990" cy="140" r="1.5" fill="#3fb950"/><circle cx="1020" cy="140" r="1.5" fill="#58a6ff"/><circle cx="1050" cy="140" r="1.5" fill="#a371f7"/><circle cx="1080" cy="140" r="1.5" fill="#f85149"/><circle cx="1110" cy="140" r="1.5" fill="#f0883e"/><circle cx="1140" cy="140" r="1.5" fill="#d29922"/>
+    <circle cx="990" cy="170" r="1.5" fill="#d29922"/><circle cx="1020" cy="170" r="1.5" fill="#3fb950"/><circle cx="1050" cy="170" r="1.5" fill="#58a6ff"/><circle cx="1080" cy="170" r="1.5" fill="#a371f7"/><circle cx="1110" cy="170" r="1.5" fill="#f85149"/><circle cx="1140" cy="170" r="1.5" fill="#f0883e"/>
+    <circle cx="990" cy="200" r="1.5" fill="#f0883e"/><circle cx="1020" cy="200" r="1.5" fill="#d29922"/><circle cx="1050" cy="200" r="1.5" fill="#3fb950"/><circle cx="1080" cy="200" r="1.5" fill="#58a6ff"/><circle cx="1110" cy="200" r="1.5" fill="#a371f7"/><circle cx="1140" cy="200" r="1.5" fill="#f85149"/>
+    <circle cx="990" cy="230" r="1.5" fill="#f85149"/><circle cx="1020" cy="230" r="1.5" fill="#f0883e"/><circle cx="1050" cy="230" r="1.5" fill="#d29922"/><circle cx="1080" cy="230" r="1.5" fill="#3fb950"/><circle cx="1110" cy="230" r="1.5" fill="#58a6ff"/><circle cx="1140" cy="230" r="1.5" fill="#a371f7"/>
+    <circle cx="990" cy="260" r="1.5" fill="#a371f7"/><circle cx="1020" cy="260" r="1.5" fill="#f85149"/><circle cx="1050" cy="260" r="1.5" fill="#f0883e"/><circle cx="1080" cy="260" r="1.5" fill="#d29922"/><circle cx="1110" cy="260" r="1.5" fill="#3fb950"/><circle cx="1140" cy="260" r="1.5" fill="#58a6ff"/>
+  </g>
+  <!-- Floating sparkles -->
+  <g opacity="0.7">
+    <path d="M320 70L322 76L328 78L322 80L320 86L318 80L312 78L318 76Z" fill="#f0883e"/>
+    <path d="M880 55L881.5 59L886 61L881.5 63L880 67L878.5 63L874 61L878.5 59Z" fill="#58a6ff"/>
+    <path d="M750 270L752 276L758 278L752 280L750 286L748 280L742 278L748 276Z" fill="#3fb950"/>
+    <path d="M150 250L151.5 254L156 256L151.5 258L150 262L148.5 258L144 256L148.5 254Z" fill="#a371f7"/>
+    <path d="M1050 80L1051.5 84L1056 86L1051.5 88L1050 92L1048.5 88L1044 86L1048.5 84Z" fill="#f85149"/>
+  </g>
+  <!-- Rainbow accent line top -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#rainbow)" rx="0"/>
+  <!-- Title -->
+  <text x="600" y="145" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#f0f6fc">Customer References</text>
+  <!-- Subtitle -->
+  <text x="600" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#8b949e">Resource Packs for OpCo Enablement &amp; Adoption</text>
+  <!-- Pill badges row -->
+  <g transform="translate(235, 230)">
+    <rect x="0" y="0" width="80" height="26" rx="13" fill="#f85149" opacity="0.2"/>
+    <text x="40" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#f85149">Security</text>
+    <rect x="95" y="0" width="80" height="26" rx="13" fill="#f0883e" opacity="0.2"/>
+    <text x="135" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#f0883e">CI/CD</text>
+    <rect x="190" y="0" width="80" height="26" rx="13" fill="#d29922" opacity="0.2"/>
+    <text x="230" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#d29922">Strategy</text>
+    <rect x="285" y="0" width="80" height="26" rx="13" fill="#3fb950" opacity="0.2"/>
+    <text x="325" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#3fb950">Copilot</text>
+    <rect x="380" y="0" width="90" height="26" rx="13" fill="#58a6ff" opacity="0.2"/>
+    <text x="425" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#58a6ff">Migration</text>
+    <rect x="485" y="0" width="90" height="26" rx="13" fill="#a371f7" opacity="0.2"/>
+    <text x="530" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#a371f7">Platform</text>
+    <rect x="590" y="0" width="110" height="26" rx="13" fill="#f778ba" opacity="0.2"/>
+    <text x="645" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#f778ba">InnerSource</text>
+  </g>
+  <!-- Rainbow accent line bottom -->
+  <rect x="0" y="316" width="1200" height="4" fill="url(#rainbow)" rx="0"/>
+</svg>
