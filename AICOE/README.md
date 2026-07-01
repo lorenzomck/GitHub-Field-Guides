@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="AI Center of Excellence - Starter Pack for Responsible AI Adoption" width="100%"/>
+  <img src="./assets/banner-v2.svg" alt="AI Center of Excellence - Starter Pack for Responsible AI Adoption" width="100%"/>
 </p>
 
 <p align="center">
