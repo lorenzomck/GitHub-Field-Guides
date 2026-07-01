@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f778ba"/>
+      <stop offset="33%" style="stop-color:#a371f7"/>
+      <stop offset="66%" style="stop-color:#58a6ff"/>
+      <stop offset="100%" style="stop-color:#3fb950"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#a371f7" stop-opacity="0.15"/>
+      <stop offset="100%" style="stop-color:#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#f778ba" stop-opacity="0.12"/>
+      <stop offset="100%" style="stop-color:#f778ba" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)" rx="12"/>
+  <!-- Glowing orbs -->
+  <ellipse cx="250" cy="100" rx="200" ry="150" fill="url(#orb1)"/>
+  <ellipse cx="950" cy="200" rx="200" ry="150" fill="url(#orb2)"/>
+  <!-- Decorative neural network dots -->
+  <g opacity="0.1">
+    <circle cx="80" cy="80" r="3" fill="#f778ba"/><circle cx="160" cy="60" r="2" fill="#a371f7"/><circle cx="120" cy="140" r="2.5" fill="#58a6ff"/>
+    <line x1="80" y1="80" x2="160" y2="60" stroke="#a371f7" stroke-width="0.5" opacity="0.5"/>
+    <line x1="80" y1="80" x2="120" y2="140" stroke="#58a6ff" stroke-width="0.5" opacity="0.5"/>
+    <line x1="160" y1="60" x2="120" y2="140" stroke="#f778ba" stroke-width="0.5" opacity="0.5"/>
+    <circle cx="1050" cy="100" r="3" fill="#3fb950"/><circle cx="1120" cy="150" r="2" fill="#58a6ff"/><circle cx="1080" cy="200" r="2.5" fill="#a371f7"/>
+    <line x1="1050" y1="100" x2="1120" y2="150" stroke="#58a6ff" stroke-width="0.5" opacity="0.5"/>
+    <line x1="1050" y1="100" x2="1080" y2="200" stroke="#a371f7" stroke-width="0.5" opacity="0.5"/>
+    <line x1="1120" y1="150" x2="1080" y2="200" stroke="#3fb950" stroke-width="0.5" opacity="0.5"/>
+  </g>
+  <!-- Sparkles -->
+  <g opacity="0.7">
+    <path d="M300 60L302 66L308 68L302 70L300 76L298 70L292 68L298 66Z" fill="#f778ba"/>
+    <path d="M900 50L901.5 54L906 56L901.5 58L900 62L898.5 58L894 56L898.5 54Z" fill="#3fb950"/>
+    <path d="M450 260L452 266L458 268L452 270L450 276L448 270L442 268L448 266Z" fill="#58a6ff"/>
+  </g>
+  <!-- Brain/AI icon -->
+  <g transform="translate(535, 75)" opacity="0.85">
+    <circle cx="16" cy="16" r="14" stroke="url(#accent)" stroke-width="2" fill="none"/>
+    <circle cx="11" cy="12" r="2" fill="#a371f7"/>
+    <circle cx="21" cy="12" r="2" fill="#58a6ff"/>
+    <circle cx="16" cy="20" r="2" fill="#f778ba"/>
+    <line x1="11" y1="12" x2="21" y2="12" stroke="#a371f7" stroke-width="1" opacity="0.6"/>
+    <line x1="11" y1="12" x2="16" y2="20" stroke="#f778ba" stroke-width="1" opacity="0.6"/>
+    <line x1="21" y1="12" x2="16" y2="20" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+  </g>
+  <!-- Accent line top -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <!-- Title -->
+  <text x="600" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f0f6fc">AI Models in GitHub Copilot</text>
+  <!-- Subtitle -->
+  <text x="600" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#8b949e">Understand, Compare, and Choose the Right Model for Every Task</text>
+  <!-- Pill badges -->
+  <g transform="translate(310, 225)">
+    <rect x="0" y="0" width="90" height="26" rx="13" fill="#f778ba" opacity="0.2"/>
+    <text x="45" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#f778ba">OpenAI</text>
+    <rect x="105" y="0" width="100" height="26" rx="13" fill="#a371f7" opacity="0.2"/>
+    <text x="155" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#a371f7">Anthropic</text>
+    <rect x="220" y="0" width="90" height="26" rx="13" fill="#58a6ff" opacity="0.2"/>
+    <text x="265" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#58a6ff">Google</text>
+    <rect x="325" y="0" width="100" height="26" rx="13" fill="#3fb950" opacity="0.2"/>
+    <text x="375" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#3fb950">Microsoft</text>
+    <rect x="440" y="0" width="90" height="26" rx="13" fill="#d29922" opacity="0.2"/>
+    <text x="485" y="17" text-anchor="middle" font-family="monospace" font-size="11" fill="#d29922">Pricing</text>
+  </g>
+  <!-- Accent line bottom -->
+  <rect x="0" y="296" width="1200" height="4" fill="url(#accent)"/>
+</svg>
