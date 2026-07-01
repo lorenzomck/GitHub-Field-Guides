@@ -1,4 +1,12 @@
-# Getting Started with GitHub – Resource Pack
+<p align="center">
+  <img src="./assets/banner.svg" alt="Getting Started with GitHub - Your OpCo Resource Pack" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/welcometocat.png" alt="Welcome Octocat" width="140"/>
+</p>
+
+<h1 align="center">Getting Started with GitHub – Resource Pack</h1>
 
 Welcome! This resource pack is designed to help your Operating Company (OpCo) get up and running with GitHub quickly and confidently. Whether you're evaluating GitHub for the first time or ready to launch a trial, everything you need is here.
 
