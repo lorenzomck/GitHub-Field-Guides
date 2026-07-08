@@ -28,6 +28,7 @@
 | 🏗️ **Platform Engineering** | Template repos, rulesets, GitHub Apps, internal developer portals | [→ Open](./Platform%20Engineering/README.md) |
 | 🧠 **AI Models in GitHub Copilot** | Model catalog, comparison, pricing, Auto selection, admin policies | [→ Open](./AI%20Models%20in%20GitHub%20Copilot/README.md) |
 | 📊 **Executive & Leadership** | TCO analysis, ROI frameworks, competitive positioning, exec presentation templates | [→ Open](./Executive%20and%20Leadership/README.md) |
+| 🔄 **App Modernization** | Legacy codebase modernization with Copilot — architecture analysis, phased migration, CI/CD | [→ Open](./App%20Modernization/README.md) |
 
 ---
 
