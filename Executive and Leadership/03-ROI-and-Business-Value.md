@@ -42,7 +42,82 @@ Assumptions:
 
 > Executive note: even conservative assumptions usually dwarf platform license cost.
 
-## 2. CI/CD and Delivery Efficiency
+## 2. What Should You Spend on AI Per Developer?
+
+The Copilot license is the starting point, not the ceiling. As AI-assisted engineering matures from autocomplete into agentic workflows, organizations need a total AI investment strategy per developer.
+
+### The Investment Spectrum
+
+```mermaid
+graph LR
+    subgraph Monthly AI Spend Per Developer
+        A["$19–$39<br/>Copilot License<br/>(Code completion, chat)"] --> B["$100–$250<br/>Moderate Use<br/>(+ Agents, debugging, testing)"]
+        B --> C["$300–$600<br/>Heavy/Power Use<br/>(+ Orchestration, autonomous agents)"]
+        C --> D["Up to $1,500<br/>Enterprise Cap<br/>(Maximum allowed spend)"]
+    end
+```
+
+### Total Cost of Ownership: Beyond the License
+
+| Cost Layer | Monthly/Dev | What It Covers |
+| --- | ---: | --- |
+| Copilot license (Business) | $19 | Code completion, chat, PR summaries, CLI |
+| Copilot license (Enterprise) | $39 | + Knowledge bases, fine-tuning, policy controls |
+| Agentic usage & API overflow | $50–$150 | Multi-file agents, autonomous debugging, test generation |
+| Complementary AI tools | $30–$100 | Specialized AI for docs, design, security, or analysis |
+| Training & enablement | $10–$20 | Prompt engineering workshops, champions program |
+| **Realistic total** | **$150–$350** | **Full AI-enabled developer experience** |
+
+> **Industry benchmark (2025–2026):** Most enterprises budget **$200–$300/month per developer** for total AI tooling. This is 2–3x the sticker price of a single Copilot license.
+
+### Why the Extra Spend Is Justified
+
+**The math is simple:** A developer costs $60–$90/hour fully loaded. AI tooling at $200–$300/month represents roughly **2 hours of that developer's time**. If AI saves even 1.8 hours/week (the measured net average after rework), the return is immediate.
+
+```mermaid
+graph TD
+    subgraph "The $300/Month Question"
+        COST["Total AI Investment<br/>$300/month per dev<br/>= $3,600/year"] --> SAVE["Measured Time Saved<br/>1.8 hrs/week × 52 weeks<br/>= 94 hours/year"]
+        SAVE --> VALUE["Value Created<br/>94 hrs × $75/hr<br/>= $7,050/year"]
+        VALUE --> ROI["Net ROI<br/>($7,050 - $3,600) ÷ $3,600<br/>= 96% return"]
+    end
+```
+
+Even at the higher end of AI spend ($300/month), the ROI remains nearly **2x**. At typical Copilot-only pricing, it's **15–30x**.
+
+### Token Economics: What Are You Actually Buying?
+
+| Task Type | Typical Monthly Tokens/Dev | Approximate Monthly Cost |
+| --- | ---: | ---: |
+| Code completion & chat | 300K–600K | $10–$30 |
+| Agentic debugging & testing | 1M–2M | $50–$200 |
+| Full-stack AI orchestration | 2M–5M+ | $100–$400 |
+
+> Output-heavy patterns (multi-turn agents, autonomous workflows) cost 3–5x more than simple prompt/response. Budget accordingly as your team adopts more agentic tooling.
+
+### Budget Planning by Maturity Stage
+
+| Stage | Description | Recommended Monthly/Dev |
+| --- | --- | ---: |
+| **Pilot** | Testing Copilot with a small group | $19–$39 |
+| **Scaling** | Broader rollout, prompt training, early agents | $100–$200 |
+| **Mature** | Full agentic workflows, autonomous CI, AI-first culture | $250–$500 |
+| **Advanced** | Custom models, heavy orchestration, enterprise-grade agents | $500–$1,500 |
+
+### Executive Justification Framing
+
+> "We spend $150,000/year on each engineer. Spending $3,600/year on AI tooling — just 2.4% of their total cost — yields measurable productivity gains of $7,000+ per developer annually. The question isn't whether to invest in AI for developers. It's how quickly we can scale from $39/month to $300/month and capture the full value curve."
+
+### Reference Sources
+
+- [DX: AI Coding Assistant Pricing & ROI Guide (2026)](https://getdx.com/blog/ai-coding-assistant-pricing/)
+- [DX: Total Cost of Ownership of AI Coding Tools](https://getdx.com/blog/ai-coding-tools-implementation-cost/)
+- [Morphl: AI Coding Costs — Claude vs Codex vs Gemini](https://www.morphllm.com/ai-coding-costs)
+- [Rize: GitHub Copilot ROI — What the Data Shows](https://rize.io/blog/copilot-roi-data)
+- [Worklytics: Measuring Copilot's Impact](https://www.worklytics.co/blog/measuring-github-copilots-impact)
+- [Onprem.ai: AI Costs by Office Role](https://www.onprem.ai/en/knowhow/llm-costs-by-office-role/)
+
+## 3. CI/CD and Delivery Efficiency
 
 Faster delivery creates both cost savings and revenue upside.
 
@@ -65,7 +140,7 @@ If 500 developers each lose 10 minutes per day to inefficient CI/CD, that equals
 
 Even recovering a portion of that pays for a substantial platform investment.
 
-## 3. Security Cost Avoidance
+## 4. Security Cost Avoidance
 
 ### Why It Matters
 
@@ -93,7 +168,7 @@ Expected annual benefit:
 
 That is a deliberately conservative example. In highly regulated or customer-facing environments, the expected value can be much larger.
 
-## 4. Time-to-Market Acceleration
+## 5. Time-to-Market Acceleration
 
 Time-to-market value is often the largest benefit, but the hardest to model. Use operational proxies.
 
@@ -115,7 +190,7 @@ If a product team shipping $20M/year in revenue brings a release forward by one 
 
 Not all of that is incremental profit, but it is strategically meaningful when applied across multiple products.
 
-## 5. KPI Measurement Framework
+## 6. KPI Measurement Framework
 
 Use this five-pillar model to build a comprehensive measurement story that connects engineering metrics to business outcomes.
 
@@ -260,7 +335,7 @@ graph LR
 >
 > These improvements translate to roughly **$6.8M** in combined value against a **$1.1M** annual platform investment — a **6.2x ROI**.
 
-## 6. Talent Attraction and Retention
+## 7. Talent Attraction and Retention
 
 Modern developer tooling is now part of the employee value proposition.
 
@@ -277,7 +352,7 @@ Replacing an engineer can cost meaningfully more than salary once recruiting, ra
 
 If better tooling helps retain even **5 senior engineers** whose replacement/ramp cost is **$50,000** each, that is **$250,000** in avoided churn cost before considering project disruption.
 
-## 7. Innovation Metrics
+## 8. Innovation Metrics
 
 GitHub's value is not just efficiency; it also increases the organization's ability to experiment.
 
