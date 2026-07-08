@@ -43,11 +43,11 @@ Payback Period = Total Cost / Monthly Benefit
 | Hours saved per week/dev | 1.0 | 1.8 | 2.5 |
 | Annual hours saved/dev | 52 | 93.6 | 130 |
 | Annual gross benefit | $663,000 | $1,193,400 | $1,657,500 |
-| Annual license cost* | $57,000 | $57,000 | $57,000 |
+| Annual license cost* | $34,200 | $34,200 | $34,200 |
 | Enablement/admin cost | $35,000 | $35,000 | $35,000 |
-| Net benefit | $571,000 | $1,101,400 | $1,565,500 |
+| Net benefit | $593,800 | $1,124,200 | $1,588,300 |
 
-\*Replace with your negotiated pricing and seat mix.
+\*Replace with your negotiated pricing and seat mix. Current list prices (July 2025): Business $19/user/mo ($34,200/yr for 150), Enterprise $39/user/mo ($70,200/yr for 150). The example above uses $19/user/mo (Business).
 
 ## Productivity Metrics to Track
 

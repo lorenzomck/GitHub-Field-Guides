@@ -37,6 +37,8 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 
 | Model | Input | Cached Input | Output | Category |
 |-------|------:|-------------:|-------:|----------|
+| GPT-4o | $0.25 | $0.025 | $1.25 | Versatile |
+| GPT-4.1 | $0.20 | $0.02 | $1.00 | Versatile |
 | GPT-5.4 nano | $0.20 | $0.02 | $1.25 | Lightweight |
 | GPT-5 mini | $0.25 | $0.025 | $2.00 | Lightweight |
 | GPT-5.4 mini | $0.75 | $0.075 | $4.50 | Lightweight |

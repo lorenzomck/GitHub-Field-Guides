@@ -21,6 +21,9 @@ GitHub offers multiple plans to fit teams of all sizes — from individual devel
 
 | Add-On | Price | Description |
 |--------|-------|-------------|
+| GitHub Copilot Free | $0/user/mo | 2,000 completions/mo, limited chat (individual) |
+| GitHub Copilot Pro | $10/user/mo | Unlimited completions, broad model selection (individual) |
+| GitHub Copilot Pro+ | $39/user/mo | All models, higher credit allowance (individual) |
 | GitHub Copilot Business | $19/user/mo | AI code completion, chat, and agent capabilities for teams |
 | GitHub Copilot Enterprise | $39/user/mo | Everything in Business + org knowledge bases, custom models |
 | GitHub Advanced Security – Secret Protection | $19/active committer/mo | Secret scanning and push protection |

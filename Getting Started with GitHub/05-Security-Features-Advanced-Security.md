@@ -114,12 +114,12 @@ Developer pushes code
 
 ## Pricing Summary
 
-| Component | Price | Billing Model |
-|-----------|-------|---------------|
-| Secret Protection | $19/mo | Per active committer |
-| Code Security | $30/mo | Per active committer |
-| Full Advanced Security (both) | $49/mo | Per active committer |
-| Dependabot (alerts + updates) | Free | Included with GitHub |
+| Component | Price | Billing Model | Availability |
+|-----------|-------|---------------|--------------|
+| Secret Protection | $19/mo | Per active committer | Team + Enterprise |
+| Code Security | $30/mo | Per active committer | Team + Enterprise |
+| Both combined | $49/mo | Per active committer | Team + Enterprise |
+| Dependabot (alerts + updates) | Free | Included with GitHub | All plans |
 
 **Active committer** = any user who authored a commit to a repo with GHAS enabled in the last 90 days.
 

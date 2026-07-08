@@ -10,6 +10,8 @@ GitHub Copilot provides access to AI models from multiple providers — OpenAI, 
 
 | Model | Category | Release Status | Context | Best For |
 |-------|----------|----------------|---------|----------|
+| **GPT-4o** | Versatile | GA | Standard | Multimodal tasks, image input, general-purpose coding |
+| **GPT-4.1** | Versatile | GA | Standard | Default model — fast, high-quality code suggestions |
 | **GPT-5 mini** | Lightweight | GA | Standard | Fast, accurate code completions and explanations |
 | **GPT-5.3-Codex** | Powerful | GA | Standard | Agentic software development tasks |
 | **GPT-5.4** | Versatile | GA | Standard + Long context | Multi-step problem solving, architecture-level analysis |
@@ -39,7 +41,7 @@ GitHub Copilot provides access to AI models from multiple providers — OpenAI, 
 | **Claude Opus 4.8 (fast mode)** | Powerful | Preview | Fast complex reasoning with higher throughput |
 | **Claude Fable 5** | Powerful | GA | Long-horizon autonomous coding, first-attempt correctness |
 
-> **Note:** Claude Fable 5 is currently unavailable per Anthropic's announcement. Check back for updates.
+> **Note:** Claude Fable 5 availability may vary. Check the [model status page](https://docs.github.com/en/copilot/reference/ai-models/supported-models) for current availability.
 
 ---
 

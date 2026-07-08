@@ -21,20 +21,20 @@ GitHub Copilot is an AI-powered developer tool that helps write code faster, und
 
 ## Plans Comparison
 
-| Feature | Free | Pro | Business | Enterprise |
-|---------|------|-----|----------|------------|
-| **Price** | $0 | $10/user/mo | $19/user/mo | $39/user/mo |
-| **Code completions** | 2,000/mo | Unlimited | Unlimited | Unlimited |
-| **Chat/Agent requests** | 50/mo | Unlimited | Unlimited | Unlimited |
-| **Premium AI models** | Basic only | Broad selection | Broad selection | Advanced + Custom |
-| **Cloud agent** | ❌ | ✅ | ✅ | ✅ |
-| **Code review** | ❌ | ✅ | ✅ | ✅ |
-| **Centralized billing** | ❌ | ❌ | ✅ | ✅ |
-| **Admin/Policy controls** | ❌ | ❌ | ✅ | ✅ |
-| **SAML SSO** | ❌ | ❌ | ✅ | ✅ |
-| **Internal code context** | ❌ | ❌ | ❌ | ✅ |
-| **Custom models** | ❌ | ❌ | ❌ | ✅ |
-| **Enterprise support** | ❌ | ❌ | ❌ | ✅ |
+| Feature | Free | Pro | Pro+ | Business | Enterprise |
+|---------|------|-----|------|----------|------------|
+| **Price** | $0 | $10/user/mo | $39/user/mo | $19/user/mo | $39/user/mo |
+| **Code completions** | 2,000/mo | Unlimited | Unlimited | Unlimited | Unlimited |
+| **Chat/Agent requests** | 50/mo | Unlimited | Unlimited | Unlimited | Unlimited |
+| **Premium AI models** | GPT-4o only | Broad selection | All models | Broad selection | All models + Custom |
+| **Cloud agent** | ❌ | ✅ | ✅ | ✅ | ✅ |
+| **Code review** | ❌ | ✅ | ✅ | ✅ | ✅ |
+| **Centralized billing** | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Admin/Policy controls** | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **SAML SSO** | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Internal code context** | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Custom models** | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Enterprise support** | ❌ | ❌ | ❌ | ❌ | ✅ |
 
 ---
 
