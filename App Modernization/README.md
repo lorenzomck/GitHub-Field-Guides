@@ -31,6 +31,10 @@ A starter pack demonstrating how GitHub Copilot can accelerate legacy applicatio
 3. **Setting up Copilot context?** Adapt the Copilot Instructions Best Practices for your codebase.
 4. **Reporting to leadership?** Use Measuring Success to quantify impact.
 
+## Credits
+
+This resource pack is based on the work of **Sam Quakenbush** | Senior Solutions Engineer, who demonstrated end-to-end legacy app modernization using GitHub Copilot with the [doomv2](https://github.com/samqbush/doomv2) repository.
+
 ## Contributing
 
 Customize these documents as your modernization initiatives evolve. All materials are markdown for easy collaboration and version control.
