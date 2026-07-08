@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/><stop offset="50%" style="stop-color:#f78166"/><stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)" rx="12"/>
+  <!-- Decorative grid dots -->
+  <g opacity="0.08" fill="#f78166">
+    <circle cx="50" cy="50" r="2"/><circle cx="100" cy="50" r="2"/><circle cx="150" cy="50" r="2"/><circle cx="200" cy="50" r="2"/><circle cx="250" cy="50" r="2"/><circle cx="300" cy="50" r="2"/>
+    <circle cx="50" cy="100" r="2"/><circle cx="100" cy="100" r="2"/><circle cx="150" cy="100" r="2"/><circle cx="200" cy="100" r="2"/><circle cx="250" cy="100" r="2"/><circle cx="300" cy="100" r="2"/>
+    <circle cx="50" cy="150" r="2"/><circle cx="100" cy="150" r="2"/><circle cx="150" cy="150" r="2"/><circle cx="200" cy="150" r="2"/><circle cx="250" cy="150" r="2"/><circle cx="300" cy="150" r="2"/>
+    <circle cx="50" cy="200" r="2"/><circle cx="100" cy="200" r="2"/><circle cx="150" cy="200" r="2"/><circle cx="200" cy="200" r="2"/><circle cx="250" cy="200" r="2"/><circle cx="300" cy="200" r="2"/>
+    <circle cx="50" cy="250" r="2"/><circle cx="100" cy="250" r="2"/><circle cx="150" cy="250" r="2"/><circle cx="200" cy="250" r="2"/><circle cx="250" cy="250" r="2"/><circle cx="300" cy="250" r="2"/>
+    <circle cx="900" cy="50" r="2"/><circle cx="950" cy="50" r="2"/><circle cx="1000" cy="50" r="2"/><circle cx="1050" cy="50" r="2"/><circle cx="1100" cy="50" r="2"/><circle cx="1150" cy="50" r="2"/>
+    <circle cx="900" cy="100" r="2"/><circle cx="950" cy="100" r="2"/><circle cx="1000" cy="100" r="2"/><circle cx="1050" cy="100" r="2"/><circle cx="1100" cy="100" r="2"/><circle cx="1150" cy="100" r="2"/>
+    <circle cx="900" cy="150" r="2"/><circle cx="950" cy="150" r="2"/><circle cx="1000" cy="150" r="2"/><circle cx="1050" cy="150" r="2"/><circle cx="1100" cy="150" r="2"/><circle cx="1150" cy="150" r="2"/>
+    <circle cx="900" cy="200" r="2"/><circle cx="950" cy="200" r="2"/><circle cx="1000" cy="200" r="2"/><circle cx="1050" cy="200" r="2"/><circle cx="1100" cy="200" r="2"/><circle cx="1150" cy="200" r="2"/>
+    <circle cx="900" cy="250" r="2"/><circle cx="950" cy="250" r="2"/><circle cx="1000" cy="250" r="2"/><circle cx="1050" cy="250" r="2"/><circle cx="1100" cy="250" r="2"/><circle cx="1150" cy="250" r="2"/>
+  </g>
+  <!-- Accent line top -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <!-- Icon -->
+  <g transform="translate(565, 60)">
+    <rect x="10" y="30" width="50" height="38" rx="6" fill="#58a6ff" opacity="0.85"/>
+    <path d="M18 30 V18 a17 17 0 0 1 34 0 V30" stroke="#58a6ff" stroke-width="6" fill="none" opacity="0.85"/>
+    <circle cx="35" cy="48" r="6" fill="#0d1117"/>
+    <rect x="32" y="50" width="6" height="12" fill="#0d1117"/>
+  </g>
+  <!-- Title -->
+  <text x="600" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#f0f6fc">Enterprise Identity &amp; Access Management</text>
+  <!-- Subtitle -->
+  <text x="600" y="205" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#8b949e">SSO, SCIM, PATs, Fine-Grained Permissions &amp; Zero Trust</text>
+  <!-- Pill badges -->
+  <g transform="translate(367.5, 230)">
+    <rect x="0" y="0" width="110" height="26" rx="13" fill="#1f6feb" opacity="0.22"/><text x="55.0" y="17" text-anchor="middle" font-family="monospace" font-size="12" fill="#58a6ff">SSO / OIDC</text><rect x="125" y="0" width="80" height="26" rx="13" fill="#238636" opacity="0.22"/><text x="165.0" y="17" text-anchor="middle" font-family="monospace" font-size="12" fill="#3fb950">SCIM</text><rect x="220" y="0" width="120" height="26" rx="13" fill="#9e6a03" opacity="0.22"/><text x="280.0" y="17" text-anchor="middle" font-family="monospace" font-size="12" fill="#d29922">Fine-Grained</text><rect x="355" y="0" width="110" height="26" rx="13" fill="#da3633" opacity="0.22"/><text x="410.0" y="17" text-anchor="middle" font-family="monospace" font-size="12" fill="#f78166">Zero Trust</text>
+  </g>
+  <!-- Accent line bottom -->
+  <rect x="0" y="296" width="1200" height="4" fill="url(#accent)"/>
+</svg>

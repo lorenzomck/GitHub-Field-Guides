@@ -29,6 +29,9 @@
 | 🧠 **AI Models in GitHub Copilot** | Model catalog, comparison, pricing, Auto selection, admin policies | [→ Open](./AI%20Models%20in%20GitHub%20Copilot/README.md) |
 | 📊 **Executive & Leadership** | TCO analysis, ROI frameworks, competitive positioning, exec presentation templates | [→ Open](./Executive%20and%20Leadership/README.md) |
 | 🔄 **App Modernization** | Legacy codebase modernization with Copilot — architecture analysis, phased migration, CI/CD | [→ Open](./App%20Modernization/README.md) |
+| 💰 **Usage-Based Billing & Cost Governance** | Metered billing model, token budgets, cost allocation, spending limits, FinOps reporting | [→ Open](./Usage-Based%20Billing%20and%20Cost%20Governance/README.md) |
+| 🤖 **Agentic Workflows & AI Agents** | Copilot Coding Agent, MCP registry setup, agent guardrails, use cases, custom agents | [→ Open](./Agentic%20Workflows%20and%20AI%20Agents/README.md) |
+| 🔐 **Enterprise Identity & Access Management** | SSO/OIDC, Entra ID + SCIM, PAT hardening, fine-grained permissions, zero trust | [→ Open](./Enterprise%20Identity%20and%20Access%20Management/README.md) |
 
 ---
 
@@ -41,6 +44,9 @@
 | **Rolling out Copilot** | Copilot Adoption → AI - Center of Excellence |
 | **Migrating platforms** | Migration & Onboarding → GitHub Actions & CI/CD |
 | **Scaling & governance** | Security & Compliance → Platform Engineering → InnerSource |
+| **Controlling AI/compute spend** | Usage-Based Billing & Cost Governance → Executive & Leadership |
+| **Adopting agentic AI** | Agentic Workflows & AI Agents → GitHub Copilot Adoption |
+| **Hardening identity & access** | Enterprise Identity & Access Management → Security & Compliance |
 
 ---
 
