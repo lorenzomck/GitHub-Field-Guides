@@ -19,14 +19,17 @@
 </p>
 
 <p align="center">
-  <sub>Quick topics:</sub>
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+copilot&type=code">Copilot</a> ·
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+security&type=code">Security</a> ·
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+billing&type=code">Billing</a> ·
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+agent&type=code">Agents</a> ·
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+identity&type=code">Identity</a> ·
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+migration&type=code">Migration</a> ·
-  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+actions&type=code">Actions</a>
+  <sub>Jump to a pack:</sub>
+  <a href="./GitHub%20Copilot%20Adoption/README.md">Copilot</a> ·
+  <a href="./Security%20and%20Compliance/README.md">Security</a> ·
+  <a href="./Usage-Based%20Billing%20and%20Cost%20Governance/README.md">Billing</a> ·
+  <a href="./Agentic%20Workflows%20and%20AI%20Agents/README.md">Agents</a> ·
+  <a href="./Enterprise%20Identity%20and%20Access%20Management/README.md">Identity</a> ·
+  <a href="./Migration%20and%20Onboarding/README.md">Migration</a> ·
+  <a href="./GitHub%20Actions%20and%20CICD/README.md">Actions</a> ·
+  <a href="./AI%20Models%20in%20GitHub%20Copilot/README.md">AI Models</a> ·
+  <a href="./Executive%20and%20Leadership/README.md">Executive</a> ·
+  <a href="./Platform%20Engineering/README.md">Platform</a>
 </p>
 
 ---
