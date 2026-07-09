@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Resource Packs | Customer References" width="100%"/>
+  <img src="./assets/banner.svg?v=2" alt="Resource Packs | Customer References" width="100%"/>
 </p>
 
 <p align="center">
