@@ -477,7 +477,7 @@ Territory action framework (use consistent language):
 - **Drive Engagement**
 Saturation calculations quantify adoption and expansion opportunities.
 ### Additional References
-- [Account Demographics](../Customers/account_demographics.md) - Territory structure and routing
+- Account Demographics - Territory structure and routing
 ---
 *Last Updated: 2026-01-12*
 *Document Owner: Revenue Copilot / Account Context Agent*

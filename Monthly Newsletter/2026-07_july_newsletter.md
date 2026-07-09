@@ -62,7 +62,7 @@ This is a personally curated newsletter for my customers, focused on the most re
 
 - **Scoped Secrets** (GA) - GitHub Actions secrets can now be tightly scoped to specific workflows or jobs, minimizing blast radius from leaks. [Changelog](https://github.blog/changelog/label/actions/)
 
-- **Runner Enforcement v2.329.0** - Self-hosted runners must be at least v2.329.0 by June 29, 2026. Brownout periods will disrupt CI/CD for non-compliant runners. **Action required**: Verify all self-hosted runners are current, especially containerized runners with disabled auto-update. [Announcement](https://byteiota.com/github-actions-self-hosted-runner-enforcement-june-2026/)
+- **Runner Enforcement v2.329.0** - Self-hosted runners must be at least v2.329.0 by June 29, 2026. Brownout periods will disrupt CI/CD for non-compliant runners. **Action required**: Verify all self-hosted runners are current, especially containerized runners with disabled auto-update. [Announcement](https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners/)
 
 - **GHES Key Rotation Required** - Following a May 2026 security incident, all GitHub Enterprise Server customers must rotate GPG signing keys using the provided script. Failure blocks future upgrades. **Action required**: Complete rotation immediately if not already done. [Advisory](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/)
 

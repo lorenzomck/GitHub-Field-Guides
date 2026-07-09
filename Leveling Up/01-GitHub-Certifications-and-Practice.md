@@ -44,7 +44,7 @@ GitHub offers a growing portfolio of professional certifications that validate s
 
 The newest addition to the certification portfolio focuses on building agentic AI solutions with GitHub.
 
-**Announcement:** [New GitHub Certified Agentic AI Developer](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-github-certified-agentic-ai-developer/4517571)
+**Announcement:** [New GitHub Certified Agentic AI Developer](https://techcommunity.microsoft.com/t5/the-skills-hub-blog/new-github-certified-agentic-ai-developer/ba-p/4157763)
 
 ### Topics Covered
 

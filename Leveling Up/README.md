@@ -40,4 +40,4 @@ Whether your team is pursuing GitHub certifications, building internal training 
 | GitHub Certifications Practice | [ghcertified.com](http://ghcertified.com/) |
 | GitHub Learning | [learn.github.com](https://learn.github.com/) |
 | GitHub Skills | [skills.github.com](https://skills.github.com) |
-| Agentic AI Developer Cert | [Tech Community Blog](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-github-certified-agentic-ai-developer/4517571) |
+| Agentic AI Developer Cert | [Tech Community Blog](https://techcommunity.microsoft.com/t5/the-skills-hub-blog/new-github-certified-agentic-ai-developer/ba-p/4157763) |

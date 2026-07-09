@@ -65,7 +65,7 @@ The [InnerSource Commons](https://innersourcecommons.org/) community provides pa
 | --- | --- |
 | [Patterns](https://patterns.innersourcecommons.org/) | Playbooks for contribution, governance, communication, and adoption |
 | [Learning Path](https://innersourcecommons.org/learn/) | Role-based guidance for starting and scaling programs |
-| [Maturity Model](https://innersourcecommons.org/learn/path/leadership/maturity-model/) | Helps teams assess current state and next-step practices |
+| [Maturity Model](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/maturity-model.md) | Helps teams assess current state and next-step practices |
 
 ## InnerSource maturity model
 
