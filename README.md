@@ -20,13 +20,13 @@
 
 <p align="center">
   <sub>Quick topics:</sub>
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=copilot">Copilot</a> ·
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=security">Security</a> ·
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=billing">Billing</a> ·
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=agent">Agents</a> ·
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=identity">Identity</a> ·
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=migration">Migration</a> ·
-  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=actions">Actions</a>
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+copilot&type=code">Copilot</a> ·
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+security&type=code">Security</a> ·
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+billing&type=code">Billing</a> ·
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+agent&type=code">Agents</a> ·
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+identity&type=code">Identity</a> ·
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+migration&type=code">Migration</a> ·
+  <a href="https://github.com/search?q=repo%3Alorenzomck%2FGitHub-Field-Guides+actions&type=code">Actions</a>
 </p>
 
 ---
