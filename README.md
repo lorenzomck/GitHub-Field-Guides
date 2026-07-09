@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Customer References — Resource Packs for OpCo Enablement" width="100%"/>
+  <img src="./assets/banner.svg" alt="Resource Packs | Customer References" width="100%"/>
 </p>
 
 <p align="center">
