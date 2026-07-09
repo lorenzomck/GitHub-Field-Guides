@@ -72,7 +72,7 @@
 
 | Folder | Description |
 |--------|-------------|
-| [Monthly Newsletters](./Monthly%20Newsletters/) | Recurring updates and highlights |
+| [Monthly Newsletters](./Monthly%20Newsletter/) | Recurring updates and highlights |
 | [Reference](./Reference/) | Additional reference materials |
 
 ---
