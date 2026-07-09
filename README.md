@@ -14,6 +14,23 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search"><img src="https://img.shields.io/badge/%F0%9F%94%8D-Search%20this%20repo-238636?style=for-the-badge" alt="Search this repo"/></a>
+</p>
+
+<p align="center">
+  <sub>Quick topics:</sub>
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=copilot">Copilot</a> ·
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=security">Security</a> ·
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=billing">Billing</a> ·
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=agent">Agents</a> ·
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=identity">Identity</a> ·
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=migration">Migration</a> ·
+  <a href="https://github.com/lorenzomck/GitHub-Field-Guides/search?q=actions">Actions</a>
+</p>
+
+---
+
 ## 📚 Resource Packs
 
 | Pack | Description | Link |
