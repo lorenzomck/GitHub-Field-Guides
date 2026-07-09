@@ -6,8 +6,6 @@
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="140"/>
 </p>
 
-<h1 align="center">Customer References — Resource Packs</h1>
-
 <p align="center">
   <em>Everything your OpCo needs to evaluate, adopt, and scale GitHub across the enterprise.</em>
 </p>
