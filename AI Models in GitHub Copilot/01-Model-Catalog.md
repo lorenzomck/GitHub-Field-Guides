@@ -16,10 +16,16 @@ GitHub Copilot provides access to AI models from multiple providers — OpenAI, 
 | **GPT-5.4 mini** | Lightweight | GA | Standard | Codebase exploration, grep-style tool use |
 | **GPT-5.4 nano** | Lightweight | GA | Standard | Ultra-low-cost lightweight tasks |
 | **GPT-5.5** | Powerful | GA | Standard + Long context | Deep reasoning, complex debugging, advanced architecture |
+| **GPT-5.6 Luna** | Lightweight | GA | Standard + Long context | Fast, cost-efficient coding with broad context |
+| **GPT-5.6 Sol** | Powerful | GA | Standard + Long context | Deep reasoning, complex debugging (next-gen) |
+| **GPT-5.6 Terra** | Versatile | GA | Standard + Long context | General-purpose coding, balanced quality and cost |
 
 ### Long Context Support
 - **GPT-5.4** – Default tier up to 272K tokens; Long context tier above 272K
 - **GPT-5.5** – Default tier up to 272K tokens; Long context tier above 272K
+- **GPT-5.6 Luna** – Default tier up to 200K tokens; Long context tier above 200K
+- **GPT-5.6 Sol** – Default tier up to 272K tokens; Long context tier above 272K
+- **GPT-5.6 Terra** – Default tier up to 272K tokens; Long context tier above 272K
 
 ---
 
@@ -39,7 +45,7 @@ GitHub Copilot provides access to AI models from multiple providers — OpenAI, 
 | **Claude Opus 4.8 (fast mode)** | Powerful | Preview | Fast complex reasoning with higher throughput |
 | **Claude Fable 5** | Powerful | GA | Long-horizon autonomous coding, first-attempt correctness |
 
-> **Note:** Claude Fable 5 is currently unavailable per Anthropic's announcement. Check back for updates.
+> **Note:** Claude Fable 5 requires explicit enterprise enablement due to Anthropic data retention practices for safety classifiers. Contact your admin to enable.
 
 ---
 
@@ -62,6 +68,14 @@ GitHub Copilot provides access to AI models from multiple providers — OpenAI, 
 | Model | Category | Release Status | Best For |
 |-------|----------|----------------|----------|
 | **MAI-Code-1-Flash** | Lightweight | GA | Fast, cost-efficient code tasks |
+
+---
+
+## Moonshot AI Models
+
+| Model | Category | Release Status | Best For |
+|-------|----------|----------------|----------|
+| **Kimi K2.7 Code** | Versatile | GA | Cost-efficient general coding tasks |
 
 ---
 

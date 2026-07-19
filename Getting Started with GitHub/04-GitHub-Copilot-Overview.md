@@ -25,7 +25,7 @@ GitHub Copilot is an AI-powered developer tool that helps write code faster, und
 |---------|------|-----|----------|------------|
 | **Price** | $0 | $10/user/mo | $19/user/mo | $39/user/mo |
 | **Code completions** | 2,000/mo | Unlimited | Unlimited | Unlimited |
-| **Chat/Agent requests** | 50/mo | Unlimited | Unlimited | Unlimited |
+| **Chat/Agent requests** | 50/mo | ~1,500 credits | ~1,900/user pooled | ~3,900/user pooled |
 | **Premium AI models** | Basic only | Broad selection | Broad selection | Advanced + Custom |
 | **Cloud agent** | ❌ | ✅ | ✅ | ✅ |
 | **Code review** | ❌ | ✅ | ✅ | ✅ |

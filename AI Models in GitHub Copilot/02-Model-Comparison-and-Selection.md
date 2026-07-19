@@ -28,16 +28,18 @@ Different models excel at different tasks. This guide helps you choose the right
 ### Priority: Speed (Low Latency)
 1. GPT-5.4 nano
 2. GPT-5 mini
-3. Gemini 3 Flash
-4. Claude Haiku 4.5
-5. MAI-Code-1-Flash
+3. GPT-5.6 Luna
+4. Gemini 3 Flash
+5. Claude Haiku 4.5
+6. MAI-Code-1-Flash
 
 ### Priority: Quality (Best Results)
-1. GPT-5.5
-2. Claude Opus 4.8
-3. Claude Fable 5
-4. Claude Sonnet 5
-5. Gemini 3.1 Pro
+1. GPT-5.6 Sol
+2. GPT-5.5
+3. Claude Opus 4.8
+4. Claude Fable 5
+5. Claude Sonnet 5
+6. Gemini 3.1 Pro
 
 ### Priority: Cost Efficiency
 1. GPT-5.4 nano ($0.20 input / $1.25 output per 1M tokens)
@@ -45,13 +47,15 @@ Different models excel at different tasks. This guide helps you choose the right
 3. Raptor mini ($0.25 / $2.00)
 4. Gemini 3 Flash ($0.50 / $3.00)
 5. GPT-5.4 mini ($0.75 / $4.50)
+6. Kimi K2.7 Code ($0.95 / $4.00)
 
 ### Priority: Autonomous/Agentic Work
 1. GPT-5.3-Codex (purpose-built for agents)
 2. Claude Fable 5 (first-attempt correctness, parallel tool batching)
 3. GPT-5.4 mini (codebase exploration, tool precision)
-4. Gemini 3.1 Pro (edit-then-test loops)
-5. Claude Opus 4.8
+4. GPT-5.6 Terra (balanced cost/quality for multi-step work)
+5. Gemini 3.1 Pro (edit-then-test loops)
+6. Claude Opus 4.8
 
 ---
 
@@ -78,14 +82,14 @@ When you select **Auto** in Copilot, the system automatically chooses the optima
 
 ## Provider Comparison
 
-| Aspect | OpenAI (GPT) | Anthropic (Claude) | Google (Gemini) | Microsoft/GitHub |
+| Aspect | OpenAI (GPT) | Anthropic (Claude) | Google (Gemini) | Microsoft/GitHub | Moonshot AI |
 |--------|-------------|-------------------|----------------|-----------------|
-| **Strongest area** | Versatility, reasoning | Code quality, safety | Multimodal, speed | Cost efficiency |
-| **Model range** | Nano → 5.5 | Haiku → Fable | Flash → Pro | Single model each |
-| **Long context** | GPT-5.4, 5.5 (272K+) | Not tiered | Gemini 3.1 Pro (200K+) | N/A |
-| **Agentic focus** | Codex, 5.4 mini | Fable 5, Opus | Gemini 3.1 Pro | N/A |
-| **Budget option** | 5.4 nano ($0.20) | Haiku ($1.00) | Flash ($0.50) | MAI-Code ($0.75) |
-| **Cache pricing** | Input/Cached | Input/Cached/Write | Input/Cached | Input/Cached |
+| **Strongest area** | Versatility, reasoning | Code quality, safety | Multimodal, speed | Cost efficiency | Cost efficiency |
+| **Model range** | Nano → 5.6 Sol | Haiku → Fable | Flash → Pro | Single model each | Single model |
+| **Long context** | GPT-5.4, 5.5, 5.6 (272K+) | Not tiered | Gemini 3.1 Pro (200K+) | N/A | N/A |
+| **Agentic focus** | Codex, 5.4 mini | Fable 5, Opus | Gemini 3.1 Pro | N/A | N/A |
+| **Budget option** | 5.4 nano ($0.20) | Haiku ($1.00) | Flash ($0.50) | MAI-Code ($0.75) | Kimi K2.7 ($0.95) |
+| **Cache pricing** | Input/Cached | Input/Cached/Write | Input/Cached | Input/Cached | Input/Cached |
 
 ---
 

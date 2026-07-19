@@ -55,7 +55,7 @@ Make the cost of inaction explicit. Leadership should feel the operational drag 
 **Why GitHub Is the Strategic Choice**
 
 ### On-Slide Content
-- 150M+ developers; 90%+ of Fortune 100 rely on GitHub
+- 180M+ developers; 90%+ of Fortune 100 rely on GitHub
 - Microsoft-backed platform with enterprise-grade scale
 - Unified capabilities across code, automation, security, and AI
 - Strong developer preference and ecosystem reach

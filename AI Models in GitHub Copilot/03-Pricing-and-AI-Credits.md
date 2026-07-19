@@ -24,10 +24,12 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 | Copilot Pro ($10/mo) | ~$15 value/month | Unlimited |
 | Copilot Pro+ ($39/mo) | ~$70 value/month | Unlimited |
 | Copilot Max ($100/mo) | ~$200 value/month | Unlimited |
-| Copilot Business ($19/user/mo) | $19/user pooled | Unlimited |
-| Copilot Enterprise ($39/user/mo) | $39/user pooled | Unlimited |
+| Copilot Business ($19/user/mo) | 1,900/user pooled | Unlimited |
+| Copilot Enterprise ($39/user/mo) | 3,900/user pooled | Unlimited |
 
 > **Important:** Code completions and next-edit suggestions are **not billed** in AI credits. They remain unlimited on all paid plans.
+
+> **Promotional:** Through September 1, 2026, Copilot Business includes 3,000 credits/user and Enterprise includes 7,000 credits/user.
 
 ---
 
@@ -45,6 +47,12 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 | GPT-5.4 (long context) | $5.00 | $0.50 | $22.50 | Versatile |
 | GPT-5.5 | $5.00 | $0.50 | $30.00 | Powerful |
 | GPT-5.5 (long context) | $10.00 | $1.00 | $45.00 | Powerful |
+| GPT-5.6 Luna | $1.00 | $0.10 | $6.00 | Lightweight |
+| GPT-5.6 Luna (long context) | $2.00 | $0.20 | $9.00 | Lightweight |
+| GPT-5.6 Sol | $5.00 | $0.50 | $30.00 | Powerful |
+| GPT-5.6 Sol (long context) | $10.00 | $1.00 | $45.00 | Powerful |
+| GPT-5.6 Terra | $2.50 | $0.25 | $15.00 | Versatile |
+| GPT-5.6 Terra (long context) | $5.00 | $0.50 | $22.50 | Versatile |
 
 ### Anthropic
 
@@ -75,6 +83,12 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 |-------|------:|-------------:|-------:|----------|
 | Raptor mini (GitHub) | $0.25 | $0.025 | $2.00 | Versatile |
 | MAI-Code-1-Flash | $0.75 | $0.075 | $4.50 | Lightweight |
+
+### Moonshot AI
+
+| Model | Input | Cached Input | Output | Category |
+|-------|------:|-------------:|-------:|----------|
+| Kimi K2.7 Code | $0.95 | $0.19 | $4.00 | Versatile |
 
 ---
 
