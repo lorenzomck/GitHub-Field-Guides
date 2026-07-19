@@ -49,7 +49,11 @@ Help developers move from basic access to confident, effective day-to-day usage 
 | Inline completions | Boilerplate, repetitive code, patterns | Generate a serializer or DTO mapping |
 | Copilot Chat | Explain, refactor, test, document | Ask for unit tests for a service class |
 | Agent mode | Multi-step repo changes with validation | Implement scoped feature work with tests |
-| CLI assistance | Terminal-centric debugging and automation | Investigate failing tests or create docs |
+| Code review | AI-assisted pull request feedback | Get suggested improvements on a PR |
+| Copilot CLI | Terminal command suggestions and debugging | Investigate failing tests or create docs |
+| Cloud agent | Background autonomous coding tasks | Assign an issue for Copilot to implement |
+| Custom instructions | Tailor Copilot behavior to your codebase | Define coding standards and patterns |
+| MCP integrations | Connect external tools via Model Context Protocol | Integrate databases, APIs, or internal tools |
 
 ## Hands-On Exercises
 

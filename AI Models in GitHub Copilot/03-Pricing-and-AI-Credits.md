@@ -24,8 +24,8 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 | Copilot Pro ($10/mo) | ~$15 value/month | Unlimited |
 | Copilot Pro+ ($39/mo) | ~$70 value/month | Unlimited |
 | Copilot Max ($100/mo) | ~$200 value/month | Unlimited |
-| Copilot Business ($19/user/mo) | $19/user pooled | Unlimited |
-| Copilot Enterprise ($39/user/mo) | $39/user pooled | Unlimited |
+| Copilot Business ($19/user/mo) | 1,900 credits/user pooled | Unlimited |
+| Copilot Enterprise ($39/user/mo) | 3,900 credits/user pooled | Unlimited |
 
 > **Important:** Code completions and next-edit suggestions are **not billed** in AI credits. They remain unlimited on all paid plans.
 
@@ -45,6 +45,9 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 | GPT-5.4 (long context) | $5.00 | $0.50 | $22.50 | Versatile |
 | GPT-5.5 | $5.00 | $0.50 | $30.00 | Powerful |
 | GPT-5.5 (long context) | $10.00 | $1.00 | $45.00 | Powerful |
+| GPT-5.6 Luna | $2.00 | $0.20 | $12.00 | Lightweight |
+| GPT-5.6 Terra | $5.00 | $0.50 | $30.00 | Versatile |
+| GPT-5.6 Sol | $10.00 | $1.00 | $60.00 | Powerful |
 
 ### Anthropic
 
@@ -74,7 +77,8 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 | Model | Input | Cached Input | Output | Category |
 |-------|------:|-------------:|-------:|----------|
 | Raptor mini (GitHub) | $0.25 | $0.025 | $2.00 | Versatile |
-| MAI-Code-1-Flash | $0.75 | $0.075 | $4.50 | Lightweight |
+| MAI-Code-1-Flash 3 | $0.75 | $0.075 | $4.50 | Lightweight |
+| Kimi K2.7 Code | $1.00 | $0.10 | $6.00 | Versatile |
 
 ---
 
@@ -121,6 +125,7 @@ GitHub Copilot uses an **AI Credits** billing system. Every interaction consumes
 
 For Copilot Business ($19/user/mo) and Enterprise ($39/user/mo):
 - Credits are **pooled** at the billing entity (org or enterprise) level
+- Business plans receive **1,900 credits/user/month**; Enterprise plans receive **3,900 credits/user/month**
 - Individual users don't have hard caps — the pool absorbs spikes
 - Admins can monitor pool consumption and set alerts
 - Overage beyond the pool is billed at standard per-token rates

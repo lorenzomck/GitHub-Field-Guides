@@ -16,25 +16,29 @@ GitHub Copilot is an AI-powered developer tool that helps write code faster, und
 | **Code Review** | AI-assisted pull request reviews with suggested improvements |
 | **CLI Assistance** | Terminal command suggestions and explanations |
 | **Cloud Agent** | Background tasks that run in GitHub-hosted environments |
+| **MCP Support** | Extensibility via Model Context Protocol for custom tool integrations |
 
 ---
 
 ## Plans Comparison
 
-| Feature | Free | Pro | Business | Enterprise |
-|---------|------|-----|----------|------------|
-| **Price** | $0 | $10/user/mo | $19/user/mo | $39/user/mo |
-| **Code completions** | 2,000/mo | Unlimited | Unlimited | Unlimited |
-| **Chat/Agent requests** | 50/mo | Unlimited | Unlimited | Unlimited |
-| **Premium AI models** | Basic only | Broad selection | Broad selection | Advanced + Custom |
-| **Cloud agent** | ❌ | ✅ | ✅ | ✅ |
-| **Code review** | ❌ | ✅ | ✅ | ✅ |
-| **Centralized billing** | ❌ | ❌ | ✅ | ✅ |
-| **Admin/Policy controls** | ❌ | ❌ | ✅ | ✅ |
-| **SAML SSO** | ❌ | ❌ | ✅ | ✅ |
-| **Internal code context** | ❌ | ❌ | ❌ | ✅ |
-| **Custom models** | ❌ | ❌ | ❌ | ✅ |
-| **Enterprise support** | ❌ | ❌ | ❌ | ✅ |
+| Feature | Free | Pro | Pro+ | Max | Business | Enterprise |
+|---------|------|-----|------|-----|----------|------------|
+| **Price** | $0 | $10/user/mo | $39/user/mo | $100/user/mo | $19/user/mo | $39/user/mo |
+| **Code completions** | 2,000/mo | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+| **AI credits** | Limited | ~$15/mo | ~$70/mo | ~$200/mo | 1,900/user/mo pooled | 3,900/user/mo pooled |
+| **Premium AI models** | Basic only | Broad selection | Advanced selection | Full selection | Broad selection | Advanced + Custom |
+| **Cloud agent** | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Code review** | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **MCP support** | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Centralized billing** | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Admin/Policy controls** | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **SAML SSO** | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Internal code context** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Custom models** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Enterprise support** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+
+> **Note:** All paid Copilot plans use monthly **GitHub AI Credits** for chat, agent, and code review interactions. Code completions remain unlimited and do not consume credits.
 
 ---
 

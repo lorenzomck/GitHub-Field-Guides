@@ -21,10 +21,14 @@ GitHub offers multiple plans to fit teams of all sizes — from individual devel
 
 | Add-On | Price | Description |
 |--------|-------|-------------|
-| GitHub Copilot Business | $19/user/mo | AI code completion, chat, and agent capabilities for teams |
-| GitHub Copilot Enterprise | $39/user/mo | Everything in Business + org knowledge bases, custom models |
+| GitHub Copilot Business | $19/user/mo | AI code completion, chat, and agent capabilities for teams (1,900 AI credits/user/mo) |
+| GitHub Copilot Enterprise | $39/user/mo | Everything in Business + org knowledge bases, custom models (3,900 AI credits/user/mo) |
+| GitHub Copilot Pro (individual) | $10/user/mo | AI code completion, chat, agent mode, code review (~$15/mo AI credits) |
+| GitHub Copilot Pro+ (individual) | $39/user/mo | Everything in Pro + premium models, higher AI credits (~$70/mo) |
+| GitHub Copilot Max (individual) | $100/user/mo | Highest AI credit allocation (~$200/mo), full model access |
 | GitHub Advanced Security – Secret Protection | $19/active committer/mo | Secret scanning and push protection |
 | GitHub Advanced Security – Code Security | $30/active committer/mo | CodeQL code scanning, dependency review |
+| GitHub Code Quality | $10/active committer/mo | Code quality metrics, maintainability analysis, AI autofix |
 | GitHub Codespaces | $0.18/hr (4-core) | Cloud development environments |
 | GitHub Actions (beyond free tier) | Linux: $0.008/min | CI/CD compute minutes |
 

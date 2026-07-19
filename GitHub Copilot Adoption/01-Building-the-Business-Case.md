@@ -43,11 +43,11 @@ Payback Period = Total Cost / Monthly Benefit
 | Hours saved per week/dev | 1.0 | 1.8 | 2.5 |
 | Annual hours saved/dev | 52 | 93.6 | 130 |
 | Annual gross benefit | $663,000 | $1,193,400 | $1,657,500 |
-| Annual license cost* | $57,000 | $57,000 | $57,000 |
+| Annual license cost* | $34,200 | $34,200 | $34,200 |
 | Enablement/admin cost | $35,000 | $35,000 | $35,000 |
-| Net benefit | $571,000 | $1,101,400 | $1,565,500 |
+| Net benefit | $593,800 | $1,124,200 | $1,588,300 |
 
-\*Replace with your negotiated pricing and seat mix.
+\*Based on Copilot Business at $19/user/mo × 150 users. Replace with your negotiated pricing and seat mix. Enterprise ($39/user/mo) provides additional AI credits and features.
 
 ## Productivity Metrics to Track
 
@@ -156,7 +156,7 @@ Decision date:
 
 ## Recommended Reference Links
 
-- GitHub Copilot for Business overview: https://github.com/features/copilot/copilot-business
+- GitHub Copilot for Business overview: https://github.com/features/copilot/plans
 - GitHub Copilot documentation: https://docs.github.com/copilot
 - GitHub Copilot trust, safety, and privacy resources: https://docs.github.com/copilot/responsible-use-of-github-copilot-features
 - McKinsey on generative AI and software engineering productivity: https://www.mckinsey.com

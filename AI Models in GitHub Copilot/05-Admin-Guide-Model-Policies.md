@@ -128,7 +128,6 @@ When the credit pool is exhausted:
 Some models are in **Public Preview**:
 - Gemini 3 Flash
 - Gemini 3.1 Pro
-- Claude Opus 4.8 (fast mode)
 
 Admin considerations:
 - Preview models may change behavior between updates

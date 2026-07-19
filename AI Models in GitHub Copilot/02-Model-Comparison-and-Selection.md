@@ -28,16 +28,18 @@ Different models excel at different tasks. This guide helps you choose the right
 ### Priority: Speed (Low Latency)
 1. GPT-5.4 nano
 2. GPT-5 mini
-3. Gemini 3 Flash
-4. Claude Haiku 4.5
-5. MAI-Code-1-Flash
+3. GPT-5.6 Luna
+4. Gemini 3 Flash
+5. Claude Haiku 4.5
+6. MAI-Code-1-Flash 3
 
 ### Priority: Quality (Best Results)
-1. GPT-5.5
-2. Claude Opus 4.8
-3. Claude Fable 5
-4. Claude Sonnet 5
-5. Gemini 3.1 Pro
+1. GPT-5.6 Sol
+2. GPT-5.5
+3. Claude Opus 4.8
+4. Claude Fable 5
+5. Claude Sonnet 5
+6. Gemini 3.1 Pro
 
 ### Priority: Cost Efficiency
 1. GPT-5.4 nano ($0.20 input / $1.25 output per 1M tokens)
@@ -47,7 +49,8 @@ Different models excel at different tasks. This guide helps you choose the right
 5. GPT-5.4 mini ($0.75 / $4.50)
 
 ### Priority: Autonomous/Agentic Work
-1. GPT-5.3-Codex (purpose-built for agents)
+1. GPT-5.6 Sol (advanced reasoning for complex agentic work)
+2. GPT-5.3-Codex (purpose-built for agents)
 2. Claude Fable 5 (first-attempt correctness, parallel tool batching)
 3. GPT-5.4 mini (codebase exploration, tool precision)
 4. Gemini 3.1 Pro (edit-then-test loops)

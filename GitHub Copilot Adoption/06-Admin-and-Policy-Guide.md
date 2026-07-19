@@ -8,11 +8,14 @@ Provide administrators, security stakeholders, and engineering leaders with a pr
 
 ### Core Setup Steps
 
-1. Confirm the right Copilot plan and licensing model.
+1. Confirm the right Copilot plan and licensing model (Business at $19/user/mo or Enterprise at $39/user/mo).
 2. Enable Copilot for the organization or enterprise scope.
 3. Define who can request or receive seats.
-4. Configure any available privacy, policy, and exclusion settings.
-5. Publish support and acceptable use guidance before broad rollout.
+4. Configure AI model availability policies (which models developers can use).
+5. Configure any available privacy, policy, and exclusion settings.
+6. Set up MCP (Model Context Protocol) integrations if applicable.
+7. Review AI credit allocation (Business: 1,900/user/mo, Enterprise: 3,900/user/mo) and set spending limits.
+8. Publish support and acceptable use guidance before broad rollout.
 
 ## Seat Assignment Strategies
 

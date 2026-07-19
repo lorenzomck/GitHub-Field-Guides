@@ -23,6 +23,7 @@
 |----------|------|
 | GitHub Security | [github.com/security](https://github.com/security) |
 | Advanced Security Overview | [github.com/enterprise/advanced-security](https://github.com/enterprise/advanced-security) |
+| GitHub Code Quality | [github.com/features/code-quality](https://github.com/features/code-quality) |
 | Copilot Trust Center | [resources.github.com/copilot-trust-center](https://resources.github.com/copilot-trust-center/) |
 | Security Advisories | [github.com/advisories](https://github.com/advisories) |
 

@@ -32,8 +32,8 @@ A comprehensive guide to the AI models available in GitHub Copilot — how they 
 
 | Need | Recommended Model |
 |------|-------------------|
-| Fast, lightweight coding help | GPT-5 mini, Gemini 3.5 Flash, Claude Haiku 4.5 |
-| General-purpose coding | Claude Sonnet 5, GPT-5.4, Claude Sonnet 4.6 |
-| Complex reasoning & debugging | GPT-5.5, Claude Opus 4.8, Gemini 3.1 Pro |
-| Agentic/autonomous coding | GPT-5.3-Codex, GPT-5.4 mini, Claude Fable 5 |
+| Fast, lightweight coding help | GPT-5 mini, GPT-5.6 Luna, Gemini 3.5 Flash, Claude Haiku 4.5 |
+| General-purpose coding | Claude Sonnet 5, GPT-5.6 Terra, GPT-5.4, Claude Sonnet 4.6 |
+| Complex reasoning & debugging | GPT-5.6 Sol, GPT-5.5, Claude Opus 4.8, Gemini 3.1 Pro |
+| Agentic/autonomous coding | GPT-5.6 Sol, GPT-5.3-Codex, GPT-5.4 mini, Claude Fable 5 |
 | Cost-optimized | GPT-5.4 nano, Raptor mini, GPT-5 mini |
