@@ -52,10 +52,10 @@ As new models are added or existing ones are improved, Auto automatically incorp
 
 | Scenario | Better Choice |
 |----------|---------------|
-| You need maximum reasoning for a hard problem | GPT-5.5, Claude Opus 4.8 |
+| You need maximum reasoning for a hard problem | GPT-5.6 Sol, GPT-5.5, Claude Opus 4.8 |
 | You want the absolute cheapest option | GPT-5.4 nano |
 | You prefer a specific model's coding style | Select that model directly |
-| You need long context guaranteed | GPT-5.4/5.5 or Gemini 3.1 Pro |
+| You need long context guaranteed | GPT-5.4/5.5/5.6 or Gemini 3.1 Pro |
 | You're doing autonomous/agentic work | GPT-5.3-Codex, Claude Fable 5 |
 | You need consistency across a session | Pin a specific model |
 
